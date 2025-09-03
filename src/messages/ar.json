@@ -1,0 +1,175 @@
+{
+  "navBar": {
+    "homePage": "الصفحة الرئيسية",
+    "aboutPage": "من نحن",
+    "contactPage": "صفحة التواصل",
+    "contactUs": "اتصل بنا",
+    "jobs": "وظائف",
+    "news": "أخبار",
+    "previousProjects": "مشاريع سابقة",
+    "ourProjects": "مشاريعنا",
+    "companyDepartments": "أقسام الشركة",
+    "switchLanguage": "تغيير اللغة",
+    "arabic": "العربية",
+    "english": "الإنجليزية",
+    "menu": "القائمة"
+  },
+  "common": {
+    "viewMore": "عرض المزيد",
+    "close": "إغلاق",
+    "play": "تشغيل",
+    "project": "مشروع",
+    "map": "الخريطة",
+    "features": "المميزات",
+    "details": "التفاصيل",
+    "exploreMore": "استكشف المزيد",
+    "headOffice": "المقر الرئيسي",
+    "contactUs": "اتصل بنا",
+    "viewProjectMap": "عرض خريطة المشروع",
+    "projectDetails": "تفاصيل المشروع",
+    "Events & news": "أخبار و فعليات",
+    "meetOurAgents": "قابل وكلائنا",
+    "readMore": "اقرأ المزيد",
+    "joinUs": "انضم إلينا",
+    "about": "نبذه عن",
+    "gallery": "معرض صور",
+    "download": "تنزيل",
+    "brochure": "البروشور",
+    "companyProfile": "الملف التعريفي لشركة معمار للتطوير العقاري",
+    "successfulSales": "المبيعات الناجحة",
+    "properties": "عقار",
+    "coverageAreas": "مناطق التغطية",
+    "areas": "مناطق",
+    "contactAgent": "طرق التواصل مع الوكيل",
+    "contactMethods": "طرق التواصل",
+    "allRightsReserved": "جميع الحقوق محفوظة © مدعوم من شركة تصميم الويب",
+    "qeematech": "قيمة تك",
+    "whatsappContact": "تواصل عبر الواتساب",
+    "realEstateDevelopment": "معمار للتطوير العقاري",
+    "next": "التالي",
+    "previous": "السابق",
+    "address": "عناوين فروعنا",
+    "complaint": "تقديم شكوى",
+    "phone": "رقم الهاتف",
+    "email": "البريد الإلكتروني",
+    "workDays": "مواعيد العمل",
+    "sendMessage": "إرسال الرساله",
+    "lastNews": "اخر الاخبار",
+    "news": "اخبار",
+    "newsDescription": "ابق علي اطلاع علي اخر الاخبار والفعاليات من شركة معمار للتطوير العقاري"
+  },
+  "projects": {
+    "exploreOtherProjects": "استكشف مشاريع أخرى",
+    "projectMap": "خريطة المشروع",
+    "projectFeatures": "مميزات المشروع",
+    "projectDetails": "تفاصيل المشروع وخريطته",
+    "projectDescription": "وصف ومميزات و الخريطه المشروع",
+    "projectFeaturesTab": "مميزات المشروع",
+    "projectPhases": "مراحل المشروع",
+    "projectUnits": "وحدات المشروع",
+    "projectPhasesTitle": "مراحل المشروع",
+    "projectPhasesDescription": "تعمل شرکة معمار للتطویر العقاري وإدارة المشروعات ﻋﻠﯽ تقدیم أفضل خدمات المقاولات التشیید والبناء",
+    "projectCompletionRate": "نسبه اكتمال المشروع",
+    "firstPhase": "مرحلة أولى",
+    "firstPhaseDescription": "وصف مرحلة أولى",
+    "ourProjects": "مشاريعنا",
+    "noProjectDescription": "لا يوجد وصف للمشروع",
+    "noImages": "لا يوجد صور للمشروع"
+  },
+  "company": {
+    "description": "تعمل شركة معمار للتطوير العقاري وإدارة المشروعات على تقديم أفضل خدمات المقاولات والبناء"
+  },
+  "home": {
+    "search": "بحث",
+    "aboutSection": "قسم من نحن"
+  },
+  "footer": {
+    "followUs": "تابعنا",
+    "socialMedia": "وسائل التواصل الاجتماعي"
+  },
+  "agents": {
+    "salesAgent": "وكيل مبيعات",
+    "successfulSales": "المبيعات الناجحة",
+    "coverageAreas": "مناطق التغطية",
+    "contactMethods": "طرق التواصل"
+  },
+  "about": {
+    "downloadBrochure": "تنزيل البروشور",
+    "companyProfile": "الملف التعريفي لشركة معمار للتطوير العقاري"
+  },
+  "form": {
+    "pleaseEnterCV": "الرجاء إدخال السيرة الذاتية",
+    "pleaseEnterDepartment": "الرجاء إدخال القسم",
+    "pleaseEnterType": "الرجاء إدخال النوع",
+    "pleaseEnterPhone": "الرجاء إدخال رقم هاتف",
+    "pleaseEnterMessage": "الرجاء إدخال محتوى الرسالة",
+    "pleaseEnterName": "الرجاء إدخال الاسم",
+    "pleaseEnterValidEmail": "الرجاء إدخال بريد إلكتروني صالح",
+    "successMessage": "تم الحجز بنجاح",
+    "contactDescription": "تقدر تتواصل معانا في أي وقت، إحنا هنا دايمًا!",
+    "fullName": "الاسم الكامل*",
+    "mobileNumber": "رقم الهاتف المحمول*",
+    "email": "البريد الإلكتروني*",
+    "message": "أكتب رسالتلك هنا..",
+    "bookNow": "احجز مكانك الان",
+    "search": "بحث",
+    "phone": "رقم الهاتف"
+  },
+  "units": {
+    "unitNumber": "رقم",
+    "whatsappContact": "تواصل عبر الواتساب",
+    "noUnits": "لا يوجد وحدات بعد"
+  },
+  "ourProjects": {
+    "filterBy": "فلتر حسب",
+    "filterDescription": "يمكنك الفلتره حسب نوع المشروع او المدينه",
+    "unitName": "اسم الوحدة",
+    "writeUnitName": "اكتب اسم الوحدة",
+    "projectType": "نوع المشروع",
+    "all": "الكل",
+    "city": "المدينه",
+    "meetOurAgents": "قابل وكلائنا",
+    "meetOurAgentsDescription": "تعمل شركة معمار للتطویر العقاري وإدارة المشروعات ﻋﻠﯽ تقدیم أفضل خدمات المقاولات التشیید والبناء",
+    "allProjects": "جميع المشاريع"
+  },
+  "jobs": {
+    "successMessage": "تم تقديم الطلب بنجاح",
+    "uploadCV": "رفع السيرة الذاتية (CV)",
+    "cvUploadDescription": "تقدر تحمل ملف بصيغة PNG بحجم 1200*500 وبحد أقصى 5MB!",
+    "department": "القسم",
+    "engineering": "هندسة",
+    "accounting": "محاسبة",
+    "customerService": "خدمة عملاء",
+    "fullName": "الاسم الكامل*",
+    "email": "البريد الإلكتروني*",
+    "selectDepartment": "-- اختيار قسم --",
+    "sendMessage": "إرسال الرساله"
+  },
+  "contact": {
+    "formElementsMissing": "بعض عناصر النموذج غير موجودة.",
+    "clearPreviousMessages": "إفراغ الرسائل السابقة",
+    "pleaseEnterName": "الرجاء إدخال الاسم.",
+    "pleaseEnterValidPhone": "الرجاء إدخال رقم هاتف صحيح.",
+    "pleaseEnterValidEmail": "الرجاء إدخال بريد إلكتروني صالح.",
+    "pleaseEnterMessage": "الرجاء إدخال محتوى الرسالة."
+  },
+  "unit": {
+    "ourProjects": "مشاريعنا",
+    "unitDetailsAndMap": "تفاصيل الوحده وخريطه الوحده"
+  },
+  "aboutProject": {
+    "ourProjects": "مشاريعنا",
+    "projectDescription": "وصف المشروع",
+    "noProjectDescription": "لا يوجد وصف للمشروع"
+  },
+  "cityPage": {
+    "cityTitle": "احدث مشاريع معمار",
+    "cityDescription": "تعمل شرکة معمار للتطویر العقاري وإدارة المشروعات ﻋﻠﯽ تقدیم أفضل خدمات المقاولات التشیید والبناء",
+    "ourAgentsTitle": "قابل وكلائنا",
+    "ourAgentsDescription": "تعمل شرکة معمار للتطویر العقاري وإدارة المشروعات ﻋﻠﯽ تقدیم أفضل خدمات المقاولات التشیید والبناء",
+    "ourAgentsLink": "قابل وكلائنا",
+    "projects": "مشاريع",
+    "cityGallery": "معرض الصور",
+    "cityVideos": "معرض الفيديوهات"
+  }
+}

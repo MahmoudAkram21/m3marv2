@@ -1,0 +1,176 @@
+{
+  "navBar": {
+    "homePage": "Home",
+    "aboutPage": "About",
+    "contactPage": "Contact",
+    "contactUs": "Contact Us",
+    "jobs": "Jobs",
+    "news": "News",
+    "previousProjects": "Previous Projects",
+    "ourProjects": "Our Projects",
+    "companyDepartments": "Departments",
+    "switchLanguage": "Languages",
+    "arabic": "Arabic",
+    "english": "English",
+    "menu": "Menu"
+  },
+  "common": {
+    "viewMore": "View More",
+    "close": "Close",
+    "play": "Play",
+    "project": "Project",
+    "map": "Map",
+    "features": "Features",
+    "details": "Details",
+    "exploreMore": "Explore More",
+    "headOffice": "Head Office",
+    "contactUs": "Contact Us",
+    "viewProjectMap": "View Project Map",
+    "projectDetails": "Project Details",
+    "Events & news": "Events & news",
+    "meetOurAgents": "Meet Our Agents",
+    "readMore": "Read More",
+    "joinUs": "Join Us",
+    "Project": "Project",
+    "about": "About",
+    "gallery": "Gallery",
+    "download": "Download",
+    "brochure": "Brochure",
+    "companyProfile": "Company Profile",
+    "successfulSales": "Successful Sales",
+    "properties": "Properties",
+    "coverageAreas": "Coverage Areas",
+    "areas": "Areas",
+    "contactAgent": "Contact Agent",
+    "contactMethods": "Contact Methods",
+    "allRightsReserved": "All Rights Reserved © Powered by Web Design Company",
+    "qeematech": "Qeema Tech",
+    "whatsappContact": "Contact via WhatsApp",
+    "realEstateDevelopment": "Real Estate Development",
+    "next": "Next",
+    "previous": "Previous",
+    "address": "Our Branches Addresses",
+    "complaint": "Complaint",
+    "phone": "Phone",
+    "email": "Email",
+    "workDays": "Work Days",
+    "sendMessage": "Send Message",
+    "lastNews": "Latest News",
+    "news": "News",
+    "newsDescription": "Stay updated with the latest news and events from Maar Company"
+  },
+  "projects": {
+    "exploreOtherProjects": "Explore Other Projects",
+    "projectMap": "Project Map",
+    "projectFeatures": "Project Features",
+    "projectDetails": "Project Details and Map",
+    "projectDescription": "Project Description, Features & Map",
+    "projectFeaturesTab": "Project Features",
+    "projectPhases": "Project Phases",
+    "projectUnits": "Project Units",
+    "projectPhasesTitle": "Project Phases",
+    "projectPhasesDescription": "Maar Company for Real Estate Development and Project Management works on providing the best construction and building services",
+    "projectCompletionRate": "Project Completion Rate",
+    "firstPhase": "First Phase",
+    "firstPhaseDescription": "First phase description",
+    "ourProjects": "Our Projects",
+    "noProjectDescription": "No project description available"
+  },
+  "company": {
+    "description": "Maar Company for Real Estate Development and Project Management works on providing the best construction and building services"
+  },
+  "home": {
+    "search": "Search",
+    "aboutSection": "About Section"
+  },
+  "footer": {
+    "followUs": "Follow Us",
+    "socialMedia": "Social Media"
+  },
+  "agents": {
+    "salesAgent": "Sales Agent",
+    "successfulSales": "Successful Sales",
+    "coverageAreas": "Coverage Areas",
+    "contactMethods": "Contact Methods"
+  },
+  "about": {
+    "downloadBrochure": "Download Brochure",
+    "companyProfile": "Company Profile"
+  },
+  "form": {
+    "pleaseEnterCV": "Please enter the CV",
+    "pleaseEnterDepartment": "Please enter the department",
+    "pleaseEnterType": "Please enter the type",
+    "pleaseEnterPhone": "Please enter the phone number",
+    "pleaseEnterMessage": "Please enter the message content",
+    "pleaseEnterName": "Please enter the name",
+    "pleaseEnterValidEmail": "Please enter a valid email address",
+    "successMessage": "Reservation successful",
+    "contactDescription": "You can contact us anytime, we're always here!",
+    "fullName": "Full Name*",
+    "mobileNumber": "Mobile Number*",
+    "email": "Email*",
+    "message": "Write your message here..",
+    "bookNow": "Book Your Place Now",
+    "search": "Search",
+    "phone": "Phone"
+  },
+  "units": {
+    "unitNumber": "Unit Number",
+    "whatsappContact": "Contact via WhatsApp",
+    "noUnits": "No units yet",
+    "noImages": "No images yet"
+  },
+  "ourProjects": {
+    "filterBy": "Filter by",
+    "filterDescription": "You can filter by project type or city",
+    "unitName": "Unit Name",
+    "writeUnitName": "Write unit name",
+    "projectType": "Project Type",
+    "all": "All",
+    "city": "City",
+    "meetOurAgents": "Meet Our Agents",
+    "meetOurAgentsDescription": "",
+    "allProjects": "جميع المشاريع"
+  },
+  "jobs": {
+    "successMessage": "Application submitted successfully",
+    "uploadCV": "Upload CV",
+    "cvUploadDescription": "You can upload a PNG file with size 1200*500 and maximum 5MB!",
+    "department": "Department",
+    "engineering": "Engineering",
+    "accounting": "Accounting",
+    "customerService": "Customer Service",
+    "fullName": "Full Name*",
+    "email": "Email*",
+    "selectDepartment": "Select Department",
+    "sendMessage": "Send Message"
+  },
+  "contact": {
+    "formElementsMissing": "Some form elements are missing.",
+    "clearPreviousMessages": "Clear previous messages",
+    "pleaseEnterName": "Please enter your name.",
+    "pleaseEnterValidPhone": "Please enter a valid phone number.",
+    "pleaseEnterValidEmail": "Please enter a valid email address.",
+    "pleaseEnterMessage": "Please enter message content."
+  },
+  "unit": {
+    "ourProjects": "Our Projects",
+    "unitDetailsAndMap": "Unit Details and Map"
+  },
+  "aboutProject": {
+    "ourProjects": "Our Projects",
+    "projectDescription": "Project Description",
+    "noProjectDescription": "No project description available"
+  },
+  "cityPage": {
+    "cityTitle": "Latest Projects",
+    "cityDescription": "Maar Company for Real Estate Development and Project Management works on providing the best construction and building services",
+    "ourAgentsTitle": "Meet Our Agents",
+    "ourAgentsDescription": "Maar Company for Real Estate Development and Project Management works on providing the best construction and building services",
+    "ourAgentsLink": "Meet Our Agents",
+    "projects": "Projects",
+    "cityGallery": "City Gallery",
+    "cityVideos": "City Videos"
+  }
+}
